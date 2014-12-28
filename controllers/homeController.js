@@ -11,7 +11,7 @@
     homeController.init = function (app) {
         app.get("/", function (req, res){
             data.repository.getGreetings(function (err, results) {
-                res.render("index", {title: "This is home", error: err, greetings: results.greetings });
+                res.render("index", {title: "Is this it?", error: err, greetings: results.greetings });
             });
         });
     };
