@@ -1,1 +1,6 @@
-<p>Nice footer brought to u by Truck it along productions</p>
+<row>
+    <div class="col-md-2"></div>
+    <div class="col-md-6">
+<p>Nice footer brought to u by Truck it along productions</p></div>
+    <div class="col-md-2"></div>
+</row>
